@@ -22,7 +22,7 @@ it difficult to formulate a question to ask about it. In these not-so-clear
 cases, we can start with a process of determining what we _do_ know. Eventually,
 this process will lead us to the right question.
 
-Here's some steps to take when you're questions:
+Here's some steps to take when you're coming up with questions:
 
 1. __Focus on small section of code.__ Don’t keep scanning several files for a
 bug. Reducing the amount of material to sort through will allow you to isolate
@@ -89,12 +89,10 @@ community in mind.
 
 - __Avoid posting too much code.__ Professional programmers have very little
 time. If you haven't done any work to help yourself, they won't bother to help
-you either. Show only the buggy section of code. When coding community visitors
-see screen after screen of pasted code they usually reach for the "Close Tab"
-button. If you struggle to narrow down the bit that is causing you trouble, that
-tells you that you might need to ask a larger, more fundamental question. Or
-perhaps you should try breaking down the code a bit better before you ask your
-question.
+you either. Show only the buggy section of code. If you struggle to narrow down
+the bit that is causing you trouble, that tells you that you might need to ask a
+larger, more fundamental question. Or perhaps you should try breaking down the
+code a bit better before you ask your question.
 
 - __Give all available details: inputs, outputs, theories, what you've done so
 far.__ Someone reading your question might not have your programming
