@@ -69,7 +69,7 @@ So that they can be sure they understand some method (in this case, probably an
 
 8. ___If necessary at this point_, submit the question.__ Still have questions?
 Now you should at least have a clearer idea of what specifically you need to ask
-for. So _now_ you can ask.
+for. So _now_ you can ask. Who do you ask? Friends, colleagues, teachers. Make use of the Flatiron ["Ask a Question"](https://help.learn.co/free-online-courses/ask-a-question/where-can-i-ask-a-question-about-a-lesson) button in Learn and someone will be glad to help you out. Or you can take your question to an online forum such as [Stack Overflow](https://stackoverflow.com/).
 
 Here's the secret about asking questions: when you follow a series of steps like
 these, you're running through all of the questions someone else might ask _you_
